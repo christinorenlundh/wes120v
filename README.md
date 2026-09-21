@@ -7,3 +7,4 @@ Installerer avhengigheter med:
 pnom install
 Start prosjektet med:
 pnpm dev
+Siden åpnes på adressen Vite viser i terminalen.
